@@ -1,4 +1,4 @@
-### About to graduate:school:.
+### Master's Degree in HUST
 
 ```bash
  ██████╗ ██╗███╗   ██╗ ██████╗ ██╗███████╗ ██████╗ ██╗   ██╗██╗     
@@ -15,12 +15,12 @@
 
 
 
-- 🔭 I’m currently working on QEMU/SPIKE & OS 
-- 🌱 I’m currently learning Master-Math , 
-- 👯 I’m looking to collaborate on NAOSI
-- 🤔 I’m looking for help with NAOSI
+- 🔭 I’m currently working on Simulator & Iot Security
+- 🌱 I’m currently learning System Security, 
+- 👯 I’m looking to collaborate on Performance Simulator
+- 🤔 I’m looking for help with ALL
 - 💬 Ask me about anything you like 
 - 📫 How to reach me: [mail](mailto:dingiso.oah@gmail.com) QQ:1037139985
 - 😄 Pronouns: dingiso
-- ⚡ Fun fact: I will go to HUST for Master-Degree
+- ⚡ Fun fact: I look forward to attending summer intern in EPFL/ETH
 
