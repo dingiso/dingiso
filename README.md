@@ -15,10 +15,9 @@
 
 # Projects 
 
-[![IOT-CVES](https://github-readme-stats.vercel.app/api/pin/?username=iots-p&repo=iot-cves)]
-[![devlopment-boards Introduction](https://github-readme-stats.vercel.app/api/pin/?username=iots-p&repo=IoT-Boards)]
-[![Pyhidra Notebook](https://github-readme-stats.vercel.app/api/pin/?username=iots-p&repo=PyhidraNotebook)]
-
+[![IOT-CVES](https://github-readme-stats.vercel.app/api/pin/?username=iots-p&repo=iot-cves)](https://github.com/IoTS-P/IoT-CVEs)
+[![devlopment-boards Introduction](https://github-readme-stats.vercel.app/api/pin/?username=iots-p&repo=IoT-Boards)](https://github.com/IoTS-P/IoT-Boards)
+[![Pyhidra Notebook](https://github-readme-stats.vercel.app/api/pin/?username=iots-p&repo=PyhidraNotebook)](https://github.com/IoTS-P/PyhidraNotebook)
 
 - 🔭 I’m currently working on Simulator & Iot Security
 - 🌱 I’m currently learning System Security for Embedded devices, 
