@@ -1,4 +1,4 @@
-### Master's Degree in HUST
+### Phd's Degree in Penn State
 
 ```bash
  ██████╗ ██╗███╗   ██╗ ██████╗ ██╗███████╗ ██████╗ ██╗   ██╗██╗     
@@ -19,12 +19,10 @@
 [![devlopment-boards Introduction](https://github-readme-stats.vercel.app/api/pin/?username=iots-p&repo=IoT-Boards)](https://github.com/IoTS-P/IoT-Boards)
 [![Pyhidra Notebook](https://github-readme-stats.vercel.app/api/pin/?username=iots-p&repo=PyhidraNotebook)](https://github.com/IoTS-P/PyhidraNotebook)
 
-- 🔭 I’m currently working on Simulator & Iot Security
-- 🌱 I’m currently learning System Security for Embedded devices, 
-- 👯 I’m looking to collaborate on Performance Simulator
+- 🔭 I’m currently working on System (Linux Kernel) Security
 - 🤔 I’m looking for help with Artificial Intelligence for software security 
 - 💬 Ask me about anything you like 
-- 📫 How to reach me: [mail](mailto:dingiso.oah@gmail.com) QQ:1037139985
+- 📫 How to reach me: [mail](mailto:dingiso.oah@gmail.com) 
 - 😄 Pronouns: dingiso(/dɪŋˈɡiːzoʊ/)
-- ⚡ Fun fact: I'm looking for PHD position 
+- ⚡ Fun fact: I'm looking for Kernel Learning Material
 
